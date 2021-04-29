@@ -1,2 +1,2 @@
 # Algoritmos
-Talleres y ejercicios corte 1
+En este repositorio encontrará talleres, ejercicios y evaluaciones correspondientes al temario de clase. 
